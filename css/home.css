@@ -39,7 +39,7 @@
 /* Start Slick Customization */
 #clients .slick-prev,
 .slick-next {
-  display: inline-block !important;
+  /* display: none !important; */
   border: none;
   color: #fff;
   font-size: 18px;
@@ -82,22 +82,18 @@
 
 /* =========START ABOUT US============= */
 #about {
-  background-image: url(../images/about/bg.svg);
+  /* background-image: url(../images/about/bg.svg); */
   background-position: center;
-
-
-  background-color: #f7f7f7;
+  background-color: #613d97;
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 6rem !important;
 }
 
-#about .brain {
-  /* background-image: url(../images/back.svg); */
-  background-repeat: no-repeat;
-  background-size: contain;
-  min-width: 390px;
-
+@media (max-width:835px) {
+  .min-vh-100 {
+    min-height: fit-content !important;
+  }
 }
 
 #about .about-card {
@@ -699,6 +695,11 @@ body {
   opacity: 0.4;
 }
 
+#partners .slick-prev,
+#partners .slick-next {
+  display: none !important;
+}
+
 .partner-img {
   box-shadow: -2px -2px 1px 0px #531cc780;
   background: #613c95;
@@ -707,8 +708,12 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
-  margin: 0 0.5rem 1rem 0.5rem;
+  margin: 0 0rem 1rem 0rem;
   cursor: pointer;
+}
+
+@media (max-width:55px) {
+  .partner-img {}
 }
 
 .partner-img img {
@@ -765,4 +770,8 @@ body {
 #articles .nav-pills .nav-link.active {
   color: var(--text-white-color);
   background: #5200fda8;
+}
+
+.slick-dots li button {
+  display: none;
 }

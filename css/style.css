@@ -130,6 +130,27 @@
   background-position: center;
 }
 
+@media (max-width:400px) {
+  #hero-section {
+    padding-top: 70px !important;
+    min-height:94vh;
+  }
+  .navbar {
+    border: none !important;
+  }
+  #partners .nav-pills {
+    border-radius: 0.75rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important; 
+  }
+}
+
+@media (max-width:555px) {
+  #hero-section {
+    padding-top: 72px;
+  }
+}
+
 @media (max-size:102px) {
   #hero-section {
     min-height: 80vh;
@@ -154,18 +175,17 @@
   width: 700px;
   position: absolute;
   top: 0;
-  height: 850px !important;
+  height: 110vh !important;
   right: -150px;
 
   /* height: 600px; */
   /* object-fit: cover; */
 }
 
-#hero-section .back {
-  display: none;
-  position: absolute;
-  height: 400px;
-  left: 40px;
+@media (min-width:1500px) {
+  #hero-section .hero-img {
+    height: 110vh !important;
+  }
 }
 
 #hero-section .hero-desc {
@@ -182,21 +202,13 @@
     display: none
   }
 
-  #hero-section .back {
-    display: block;
-    top: 40px;
-    left: 279px !important;
-    right: 15px;
+  #hero-section .video-ai {
+    background-color: #613c95;
+    border-radius: 24px;
   }
+
 }
 
-@media (max-width: 1030px) {
-  #hero-section .back {
-    display: block;
-    top: 205px;
-    left: 240px !important;
-  }
-}
 
 @media (max-width: 991px) {
   #hero-section .fs-lg {
@@ -204,19 +216,6 @@
   }
 
 }
-
-@media (max-width:835px) {
-  #hero-section .back {
-    top: 375px;
-  }
-}
-
-@media (max-width:834px) {
-  #hero-section .back {
-    top: 205px;
-  }
-}
-
 
 @media (max-width: 768px) {
   #hero-section .fs-lg {
@@ -228,20 +227,16 @@
     height: 300px;
   }
 
-  #hero-section .back {
-    display: none;
-    top: 100px;
-    left: -21px !important;
-    margin-bottom: 20px;
-  }
-
   video {
     width: 300px !important;
   }
 
   .video-ai {
-    background-color: #633f9b;
+    background-color: #613d97;
     width: 100%;
+    border-radius: 6px;
+    margin: 5px;
+    flex-shrink: 1;
   }
 }
 
@@ -466,7 +461,6 @@
 
 @media (max-width: 1199px) and (min-width: 1024px) {
   #hero-section {
-    min-height: auto;
     padding: 5rem 0 !important;
   }
 

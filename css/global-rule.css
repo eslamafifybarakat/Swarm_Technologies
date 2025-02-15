@@ -332,10 +332,11 @@ a:focus-visible {
   height: 15px;
 }
 
+/* 
 .slick-prev,
 .slick-next {
   display: none !important;
-}
+} */
 
 #overlay-loading {
   background-color: #002025a3;
@@ -372,4 +373,8 @@ hr {
 
 .w-content {
   width: fit-content;
+}
+
+.slick-dots {
+  display: none !important;
 }
