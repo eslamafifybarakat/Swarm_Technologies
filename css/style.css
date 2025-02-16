@@ -70,10 +70,10 @@
 
 /* =============SIDEBAR=============== */
 #sidebar .offcanvas {
-  background-image: url(../images/navbar/sidebar-bg.webp);
+  /* background-image: url(../images/navbar/sidebar-bg.webp); */
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #272b30;
+  background-color: #7c1dc9;
   color: var(--text-white-color);
   margin: 0.6rem;
   border-radius: 1rem;
