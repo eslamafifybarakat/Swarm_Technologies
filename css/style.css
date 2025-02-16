@@ -171,8 +171,8 @@
 }
 
 #hero-section .hero-img {
-  /* width: 100%; */
   width: 700px;
+  max-width: 100%;
   position: absolute;
   top: 0;
   height: 110vh !important;

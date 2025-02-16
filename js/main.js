@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // footer typing description
     var currentURL = window.location.href;
-    const text = currentURL.includes('-ar') ? 'الذكاء الاصطناعي في مكان واحد' : "Artificial Intelligence At One Stop";
+    const text = currentURL.includes('-ar') ? 'نحن نصنع المستقبل اليوم.' : "We create the future today.";
     let index = 0;
     let isDeleting = false;
     const intervalTime = 100; // Adjust interval time here (milliseconds)
