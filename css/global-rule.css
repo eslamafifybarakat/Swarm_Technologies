@@ -192,6 +192,14 @@ a.text-white-color:hover {
   clip-path: polygon(88% 0, 100% 22%, 100% 75%, 100% 100%, 0 100%, 0 0);
 }
 
+.button-border-dark {
+  background: #000;
+  padding: 1.5px;
+  display: block;
+  border-radius: 8px;
+  /* clip-path: polygon(88% 0, 100% 22%, 100% 75%, 100% 100%, 0 100%, 0 0); */
+}
+
 #solutions-and-services .solution-btn {
   background-color: #25203a !important;
 }
