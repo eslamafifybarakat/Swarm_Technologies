@@ -192,11 +192,11 @@ a.text-white-color:hover {
   clip-path: polygon(88% 0, 100% 22%, 100% 75%, 100% 100%, 0 100%, 0 0);
 }
 
-.button-border-dark {
-  background: #000;
+.button-border-danger {
+  background: #FF0000;
   padding: 1.5px;
   display: block;
-  border-radius: 8px;
+  border-radius: 30px;
   /* clip-path: polygon(88% 0, 100% 22%, 100% 75%, 100% 100%, 0 100%, 0 0); */
 }
 
