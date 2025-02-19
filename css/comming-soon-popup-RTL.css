@@ -1,0 +1,26 @@
+/* Custom Popup Styling */
+
+.close-btn {
+  left: 15px;
+  right: inherit;
+}
+
+.popup-banner {
+  position: absolute;
+  top: -16px;
+  right: -53px;
+  left: initial;
+  background: linear-gradient(90deg, #ff0000, #bb0000);
+  color: white;
+  padding: 4px 40px;
+  font-size: 14px;
+  font-weight: bold;
+  transform: rotate(30deg);
+  border-radius: 4px;
+}
+
+.popup-stars {
+  transform: rotate(-30deg);
+  right: initial;
+  left: 0px;
+}
