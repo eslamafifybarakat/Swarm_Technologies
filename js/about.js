@@ -7,22 +7,22 @@ const aboutTestimonialEn = [
         name: 'Dr. Abdullah Al-Badrani',
         position: 'CEO of Swarm'
     },
-    {
-        id: 2,
-        description:
-            'At "Swarm", we believe in the power of technology to reshape the future. As a leading Saudi company in the fields of artificial intelligence, advanced software, digital transformation, and cybersecurity, we strive to provide innovative solutions that meet our clients\' needs and contribute to achieving their aspirations.',
-        imgUrl: './images/about/testimonials/1.webp',
-        name: 'Dr. Abdullah Al-Badrani',
-        position: 'CEO of Swarm'
-    },
-    {
-        id: 3,
-        description:
-            'At "Swarm", we believe in the power of technology to reshape the future. As a leading Saudi company in the fields of artificial intelligence, advanced software, digital transformation, and cybersecurity, we strive to provide innovative solutions that meet our clients\' needs and contribute to achieving their aspirations.',
-        imgUrl: './images/about/testimonials/1.webp',
-        name: 'Dr. Abdullah Al-Badrani',
-        position: 'CEO of Swarm'
-    }
+    // {
+    //     id: 2,
+    //     description:
+    //         'At "Swarm", we believe in the power of technology to reshape the future. As a leading Saudi company in the fields of artificial intelligence, advanced software, digital transformation, and cybersecurity, we strive to provide innovative solutions that meet our clients\' needs and contribute to achieving their aspirations.',
+    //     imgUrl: './images/about/testimonials/1.webp',
+    //     name: 'Dr. Abdullah Al-Badrani',
+    //     position: 'CEO of Swarm'
+    // },
+    // {
+    //     id: 3,
+    //     description:
+    //         'At "Swarm", we believe in the power of technology to reshape the future. As a leading Saudi company in the fields of artificial intelligence, advanced software, digital transformation, and cybersecurity, we strive to provide innovative solutions that meet our clients\' needs and contribute to achieving their aspirations.',
+    //     imgUrl: './images/about/testimonials/1.webp',
+    //     name: 'Dr. Abdullah Al-Badrani',
+    //     position: 'CEO of Swarm'
+    // }
 ];
 const aboutTestimonialAr = [
     {
@@ -33,22 +33,22 @@ const aboutTestimonialAr = [
         name: 'د. عبدالله البدراني',
         position: 'المدير التنفيذي لشركة سوارم'
     },
-    {
-        id: 2,
-        description:
-            'في "سوارم"، نحن نؤمن بقوة التقنية في إعادة تشكيل المستقبل. كشركة سعودية رائدة في مجالات الذكاء الاصطناعي البرمجيات المتقدمة، والتحول الرقمي، والأمن السيبراني تسعى لتقديم حلول مبتكرة تلبي احتياجات عملائنا وتساهم في تحقيق تطلعاتهم.',
-        imgUrl: './images/about/testimonials/1.webp',
-        name: 'د. عبدالله البدراني',
-        position: 'المدير التنفيذي لشركة سوارم'
-    },
-    {
-        id: 3,
-        description:
-            'في "سوارم"، نحن نؤمن بقوة التقنية في إعادة تشكيل المستقبل. كشركة سعودية رائدة في مجالات الذكاء الاصطناعي البرمجيات المتقدمة، والتحول الرقمي، والأمن السيبراني تسعى لتقديم حلول مبتكرة تلبي احتياجات عملائنا وتساهم في تحقيق تطلعاتهم.',
-        imgUrl: './images/about/testimonials/1.webp',
-        name: 'د. عبدالله البدراني',
-        position: 'المدير التنفيذي لشركة سوارم'
-    }
+    // {
+    //     id: 2,
+    //     description:
+    //         'في "سوارم"، نحن نؤمن بقوة التقنية في إعادة تشكيل المستقبل. كشركة سعودية رائدة في مجالات الذكاء الاصطناعي البرمجيات المتقدمة، والتحول الرقمي، والأمن السيبراني تسعى لتقديم حلول مبتكرة تلبي احتياجات عملائنا وتساهم في تحقيق تطلعاتهم.',
+    //     imgUrl: './images/about/testimonials/1.webp',
+    //     name: 'د. عبدالله البدراني',
+    //     position: 'المدير التنفيذي لشركة سوارم'
+    // },
+    // {
+    //     id: 3,
+    //     description:
+    //         'في "سوارم"، نحن نؤمن بقوة التقنية في إعادة تشكيل المستقبل. كشركة سعودية رائدة في مجالات الذكاء الاصطناعي البرمجيات المتقدمة، والتحول الرقمي، والأمن السيبراني تسعى لتقديم حلول مبتكرة تلبي احتياجات عملائنا وتساهم في تحقيق تطلعاتهم.',
+    //     imgUrl: './images/about/testimonials/1.webp',
+    //     name: 'د. عبدالله البدراني',
+    //     position: 'المدير التنفيذي لشركة سوارم'
+    // }
 ];
 
 var currentURL = window.location.href;
@@ -75,7 +75,7 @@ aboutTestimonial.forEach(item => {
                     <h3 class="fs-5-2 mt-4 text-dark">
                     ${item.name}
                     </h3>
-                    <small class="fs-6-1 text-dark-50 mt-1">
+                    <small class="fs-6-1 text-black-50 mt-1">
                     ${item.position}
                     </small>
                 </div>
@@ -87,20 +87,20 @@ aboutTestimonial.forEach(item => {
     aboutTestimonialList.appendChild(div);
 });
 
-setTimeout(() => {
-    $('.testimonial-items').slick({
-        infinite: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        dots: true,
-        nav: false,
-        // vertical: true,
-        // verticalSwiping: true,
-        autoplay: true,
-        speed: 2000,
-        fade: true,
-        rtl: currentURL.includes('ar') ? true : false
-    });
-}, 100);
+// setTimeout(() => {
+//     $('.testimonial-items').slick({
+//         infinite: true,
+//         slidesToShow: 1,
+//         slidesToScroll: 1,
+//         dots: true,
+//         nav: false,
+//         // vertical: true,
+//         // verticalSwiping: true,
+//         autoplay: true,
+//         speed: 2000,
+//         fade: true,
+//         rtl: currentURL.includes('ar') ? true : false
+//     });
+// }, 100);
 
 
