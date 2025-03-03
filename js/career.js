@@ -2,28 +2,28 @@ var currentURL = window.location.href;
 
 const jobsEn = [
     {
-        id: 1, title: 'Big Data Developer', description: 'At Wakeb ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
+        id: 1, title: 'Big Data Developer', description: 'At Swarm ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
     },
     {
-        id: 1, title: 'Big Data Developer', description: 'At Wakeb ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
+        id: 1, title: 'Big Data Developer', description: 'At Swarm ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
     },
     {
-        id: 1, title: 'Big Data Developer', description: 'At Wakeb ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
+        id: 1, title: 'Big Data Developer', description: 'At Swarm ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
     }, {
-        id: 1, title: 'Big Data Developer', description: 'At Wakeb ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
+        id: 1, title: 'Big Data Developer', description: 'At Swarm ,we need big data developer to design the architecture of our big data platform · Perform and oversee tasks such as writing scripts, calling APIs, web scraping, and writing'
     }
 ]
 const jobsAr = [
     {
-        id: 1, title: 'مطور بيانات كبيرة', description: 'في ويكيب، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
+        id: 1, title: 'مطور بيانات كبيرة', description: 'في سوارم، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
     },
     {
-        id: 2, title: 'مطور بيانات كبيرة', description: 'في ويكيب، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
+        id: 2, title: 'مطور بيانات كبيرة', description: 'في سوارم، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
     },
     {
-        id: 3, title: 'مطور بيانات كبيرة', description: 'في ويكيب، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
+        id: 3, title: 'مطور بيانات كبيرة', description: 'في سوارم، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
     }, {
-        id: 4, title: 'مطور بيانات كبيرة', description: 'في ويكيب، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
+        id: 4, title: 'مطور بيانات كبيرة', description: 'في سوارم، نحتاج إلى مطور بيانات كبيرة لتصميم بنية منصتنا للبيانات الكبيرة · أداء وإشراف المهام مثل كتابة النصوص، استدعاء واجهات برمجة التطبيقات، جمع البيانات من الويب، والكتابة'
     }
 ];
 

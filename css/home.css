@@ -1,3 +1,32 @@
+/* =========START HERO SECTION============= */
+
+#hero-section .hero-img {
+  width: 700px;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  height: 110vh !important;
+  right: -150px;
+
+  /* height: 600px; */
+  /* object-fit: cover; */
+}
+
+@media (min-width:1500px) {
+  #hero-section .hero-img {
+    height: 110vh !important;
+  }
+}
+
+
+@media (max-width: 1199px) {
+  #hero-section .hero-img {
+    display: none
+  }
+}
+
+/* =========End HERO SECTION============= */
+
 /* =========START CLIENTS============= */
 #clients {
   padding: 2rem 0;

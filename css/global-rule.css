@@ -25,8 +25,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   color: #252829;
-  background-color: #0e0c15;
-  font-family: Alternox;
+  /* font-family: Alternox; */
 }
 
 * {
@@ -355,7 +354,6 @@ a:focus-visible {
 /* ===========search========= */
 #search .input-group-text {
   border-radius: 50px 0 0 50px;
-  border-color: #ffffff1a;
 }
 
 #search .form-control:focus {
@@ -364,9 +362,8 @@ a:focus-visible {
 
 #search .form-control {
   height: 4.5rem !important;
-  border-color: #ffffff1a;
+  border-color: rgb(206 212 218);
   border-radius: 0 50px 50px 0 !important;
-  color: var(--text-white-color);
 }
 
 hr {

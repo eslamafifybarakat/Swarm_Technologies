@@ -348,7 +348,7 @@ function update(source) {
         .attr("stroke", "black")
         .attr("stroke-width", 1)
         .style("fill", function (d) {
-            return d._children ? "#ca89ff" : "#00000000";
+            return d._children ? "#603c98" : "#00000000";
         });
 
     nodeUpdate.select("text")

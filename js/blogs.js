@@ -112,774 +112,774 @@
 const blogDataEn = [
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' Wakeb solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' Swarm solutions in Marketing and Advertising', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  Artificial Intelligence solutions in Business', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' How Artificial Intelligence is Shaping Our Worldg', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'Wakab solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'Swarm solutions in the marketing sector', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    How artificial intelligence is shaping our world', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'AI automates iterative learning and discovery through data', description: ' Welcome to our AI Image Generation website, where creativity meets technology! Harnessing the power of artificial intelligence, we bring you a world of limitless possibilities for image creation and transformation.'
     },
 
 ];
 const blogDataAr = [
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 1,
-        imgUrl: './images/blogs/wakeb-solutions.webp', altText: 'wakeb-solutions', title: ' حلول واكب في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions', title: ' حلول سوارم في مجال التسويق والإعلان', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 2,
-        imgUrl: './images/blogs/artificial-Intelligence.webp', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '  حلول الذكاء الاصطناعي في الأعمال', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 3,
-        imgUrl: './images/blogs/how-artificial-Intelligence.webp', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'how-artificial-Intelligence', title: ' كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 4,
-        imgUrl: './images/blogs/wakab-solutions-in-marketing.webp', altText: 'wakab-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology.jpg', altText: 'swarm-solutions-in-marketing', title: 'حلول وكاب في قطاع التسويق', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 5,
-        imgUrl: './images/blogs/ai.webp', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-2.jpg', altText: 'artificial-Intelligence', title: '    كيف يشكل الذكاء الاصطناعي عالمنا؟', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
     {
         id: 6,
-        imgUrl: './images/blogs/ai-automates-iterative-learning.webp', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
+        imgUrl: './images/technology-3.jpg', altText: 'ai-automates-iterative-learning', title: 'يقوم الذكاء الاصطناعي بأتمتة التعلم والاكتشاف التكراري من خلال البيانات', description: 'مرحبًا بك في موقعنا لتكوين الصور بواسطة الذكاء الاصطناعي، حيث يلتقي الإبداع  بالتكنولوجيا! باستخدام قوة الذكاء الاصطناعي، نقدم لك عالمًا من الإمكانيات اللامحدودة لإنشاء وتحويل الصور.'
     },
 
 ];
@@ -923,10 +923,10 @@ function displayBlogs(page) {
             </div>
             <div class="d-flex justify-content-between flex-column gap-3 text-md-start text-center">
                 <div>
-                    <h2 class="fs-5-2 lh-sm text-white-color article-title">
+                    <h2 class="fs-5-2 lh-sm text-dark article-title">
                         ${blog.title}
                     </h2>
-                    <p class="fs-6-1 ls-1 text-white-50 mt-2 fw-lighter article-description mb-0">
+                    <p class="fs-6-1 ls-1 text-black-50 mt-2 fw-lighter article-description mb-0">
                     ${blog.description}
                     </p>
                 </div>
@@ -938,10 +938,10 @@ function displayBlogs(page) {
                             xmlns="http://www.w3.org/2000/svg">
                             <path
                                 d="M12.6309 6.33869C12.5833 6.21599 12.5119 6.10379 12.4209 6.00869L7.42094 1.00869C7.32774 0.915449 7.21704 0.841489 7.09514 0.791029C6.97334 0.740569 6.84284 0.7146 6.71094 0.7146C6.44464 0.7146 6.18924 0.820389 6.00094 1.00869C5.90774 1.10193 5.83374 1.21262 5.78324 1.33444C5.73284 1.45627 5.70684 1.58683 5.70684 1.71869C5.70684 1.98499 5.81264 2.24039 6.00094 2.42869L9.30094 5.71869H1.71094C1.44572 5.71869 1.19137 5.82409 1.00383 6.01159C0.816298 6.19909 0.710938 6.45349 0.710938 6.71869C0.710938 6.98389 0.816298 7.23829 1.00383 7.42579C1.19137 7.61329 1.44572 7.71869 1.71094 7.71869H9.30094L6.00094 11.0087C5.90724 11.1017 5.83284 11.2123 5.78204 11.3341C5.73124 11.456 5.70514 11.5867 5.70514 11.7187C5.70514 11.8507 5.73124 11.9814 5.78204 12.1033C5.83284 12.2251 5.90724 12.3357 6.00094 12.4287C6.09394 12.5224 6.20454 12.5968 6.32634 12.6476C6.44824 12.6984 6.57894 12.7245 6.71094 12.7245C6.84294 12.7245 6.97364 12.6984 7.09554 12.6476C7.21734 12.5968 7.32794 12.5224 7.42094 12.4287L12.4209 7.42869C12.5119 7.33359 12.5833 7.22149 12.6309 7.09869C12.7309 6.85519 12.7309 6.58219 12.6309 6.33869Z"
-                                fill="white" />
+                                fill="black" />
                         </svg>
                     </span>
-                    <span class="text-white-color">
+                    <span class="text-dark">
                     ${currentURL.includes('ar') ? 'اقرا المزيد' : 'Read more'}
                     </span>
                 </a>
@@ -971,6 +971,7 @@ function updatePagination() {
                 currentPage = i;
                 displayBlogs(currentPage);
                 updatePagination();
+                window.scrollTo({ top: 600, behavior: 'smooth' });
                 console.log('Current Page:', currentPage);
             });
 
@@ -1030,6 +1031,7 @@ prevBtn.addEventListener('click', () => {
         currentPage--;
         displayBlogs(currentPage);
         updatePagination();
+        window.scrollTo({ top: 600, behavior: 'smooth' });
         console.log('Current Page:', currentPage);
     }
 });
@@ -1040,6 +1042,7 @@ nextBtn.addEventListener('click', () => {
         currentPage++;
         displayBlogs(currentPage);
         updatePagination();
+        window.scrollTo({ top: 600, behavior: 'smooth' });
         console.log('Current Page:', currentPage);
     }
 });
