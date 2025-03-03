@@ -33,33 +33,33 @@ document.getElementById("contact-form").addEventListener("submit", function (eve
     // Validate firstName
     var firstName = document.getElementById("firstName").value;
     if (firstName === "") {
-        setErrorAndStyle("firstName", currentURL.includes('ar') ? 'الاسم الاول مطلوب' : "First name is required");
+        setErrorAndStyle("firstName", currentURL.includes('-ar') ? 'الاسم الاول مطلوب' : "First name is required");
         event.preventDefault(); // Prevent form submission
     }
 
     // Validate lastName
     var lastName = document.getElementById("lastName").value;
     if (lastName === "") {
-        setErrorAndStyle("lastName", currentURL.includes('ar') ? 'الاسم الاخير مطلوب' : "Last name is required");
+        setErrorAndStyle("lastName", currentURL.includes('-ar') ? 'الاسم الاخير مطلوب' : "Last name is required");
         event.preventDefault(); // Prevent form submission
     }
 
     // Validate email
     var email = document.getElementById("email").value;
     if (email === "") {
-        setErrorAndStyle("email", currentURL.includes('ar') ? "البريد الالكتروني مطلوب" : "Email is required");
+        setErrorAndStyle("email", currentURL.includes('-ar') ? "البريد الالكتروني مطلوب" : "Email is required");
         event.preventDefault(); // Prevent form submission
     }
     var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(email)) {
-        setErrorAndStyle("email", currentURL.includes('ar') ? "تنسيق البريد الإلكتروني غير صالح" : "Invalid email format");
+        setErrorAndStyle("email", currentURL.includes('-ar') ? "تنسيق البريد الإلكتروني غير صالح" : "Invalid email format");
         event.preventDefault(); // Prevent form submission
     }
 
     // Validate message
     var message = document.getElementById("message").value;
     if (message === "") {
-        setErrorAndStyle("message", currentURL.includes('ar') ? "الرساله مطلوبة" : "Message is required");
+        setErrorAndStyle("message", currentURL.includes('-ar') ? "الرساله مطلوبة" : "Message is required");
         event.preventDefault(); // Prevent form submission
     }
 

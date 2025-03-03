@@ -634,7 +634,7 @@ var useCasesAr = [
 ]
 
 var currentURL = window.location.href;
-const useCases = currentURL.includes('ar') ? useCasesAr : useCasesEn;
+const useCases = currentURL.includes('-ar') ? useCasesAr : useCasesEn;
 
 var casesItems = document.getElementById('#cases-items');
 var casesTabs = document.querySelector('.cases-tabs');

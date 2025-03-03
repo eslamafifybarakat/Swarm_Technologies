@@ -884,9 +884,7 @@ const blogDataAr = [
 
 ];
 var currentURL = window.location.href;
-const blogData = currentURL.includes('ar') ? blogDataAr : blogDataEn;
-console.log(blogData)
-console.log(currentURL.includes('ar'))
+const blogData = currentURL.includes('-ar') ? blogDataAr : blogDataEn;
 const itemsPerPage = 9;
 let currentPage = 1;
 
@@ -932,7 +930,7 @@ function displayBlogs(page) {
                     ${blog.description}
                     </p>
                 </div>
-                <a href="${currentURL.includes('ar') ? './blog-details-ar.html' : './blog-details.html'}"
+                <a href="${currentURL.includes('-ar') ? './blog-details-ar.html' : './blog-details.html'}"
                     class="d-flex align-items-center justify-content-center justify-content-md-start gap-4">
                     <span
                         class="arrow-icon rounded-circle d-flex justify-content-center align-items-center scaleX-rtl">
@@ -944,7 +942,7 @@ function displayBlogs(page) {
                         </svg>
                     </span>
                     <span class="text-dark">
-                    ${currentURL.includes('ar') ? 'اقرا المزيد' : 'Read more'}
+                    ${currentURL.includes('-ar') ? 'اقرا المزيد' : 'Read more'}
                     </span>
                 </a>
             </div>

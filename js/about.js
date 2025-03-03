@@ -52,7 +52,7 @@ const aboutTestimonialAr = [
 ];
 
 var currentURL = window.location.href;
-const aboutTestimonial = currentURL.includes('ar') ? aboutTestimonialAr : aboutTestimonialEn;
+const aboutTestimonial = currentURL.includes('-ar') ? aboutTestimonialAr : aboutTestimonialEn;
 
 const aboutTestimonialList = document.querySelector('.testimonial-items');
 aboutTestimonialList.innerHTML = '';
@@ -99,7 +99,7 @@ aboutTestimonial.forEach(item => {
 //         autoplay: true,
 //         speed: 2000,
 //         fade: true,
-//         rtl: currentURL.includes('ar') ? true : false
+//         rtl: currentURL.includes('-ar') ? true : false
 //     });
 // }, 100);
 

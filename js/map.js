@@ -256,7 +256,7 @@ var rootAr = {
         }]
 };
 var currentURL = window.location.href;
-const root = currentURL.includes('ar') ? rootAr : rootEn;
+const root = currentURL.includes('-ar') ? rootAr : rootEn;
 
 var i = 0,
     duration = 750,
