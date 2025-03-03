@@ -885,6 +885,8 @@ const blogDataAr = [
 ];
 var currentURL = window.location.href;
 const blogData = currentURL.includes('ar') ? blogDataAr : blogDataEn;
+console.log(blogData)
+console.log(currentURL.includes('ar'))
 const itemsPerPage = 9;
 let currentPage = 1;
 
