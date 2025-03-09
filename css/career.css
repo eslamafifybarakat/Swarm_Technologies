@@ -148,6 +148,26 @@
 #available-job .slick-prev,
 #available-job .slick-next {
   display: block !important;
+  z-index: 5;
+}
+
+@media (max-width:575px) {
+  #available-job .slick-prev {
+    left: 0px !important;
+  }
+
+  [dir='rtl'] #available-job .slick-prev {
+    right: 0px !important;
+  }
+
+
+  #available-job .slick-next {
+    right: 0px !important;
+  }
+
+  [dir='rtl'] #available-job .slick-next {
+    left: 0px !important;
+  }
 }
 
 #available-job .slick-arrow::before {

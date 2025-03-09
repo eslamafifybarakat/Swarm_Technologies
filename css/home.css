@@ -701,6 +701,8 @@ body {
 #partners .nav-pills {
   background-color: #2a135b3d;
   border: 0;
+  padding: 15px !important;
+
 }
 
 #partners .nav-pills .nav-link {
@@ -708,6 +710,12 @@ body {
   padding: 0.8rem 1.1rem;
   color: white;
   border: 0;
+}
+
+@media (max-width:565px) {
+  #partners .nav-pills .nav-link {
+    border-radius: 10px
+  }
 }
 
 #partners .nav-pills .nav-link.active {
@@ -796,9 +804,15 @@ body {
   border: 0;
 }
 
+@media (max-width:565px) {
+  #articles .nav-pills .nav-link {
+    border-radius: 10px
+  }
+}
+
 #articles .nav-pills .nav-link.active {
   color: var(--text-white-color);
-  background: #5200fda8;
+  background: #613c95;
 }
 
 .slick-dots li button {

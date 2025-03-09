@@ -46,24 +46,26 @@ document.addEventListener("DOMContentLoaded", function () {
 
     function typeWriter() {
         const typewriterElement = document.getElementById("footer-text");
+    
+        if (!typewriterElement) return; 
+    
         const currentText = typewriterElement.innerHTML;
-
+    
         if (!isDeleting && index <= text.length) {
             typewriterElement.innerHTML = text.substring(0, index);
             index++;
         } else if (isDeleting && index >= 0) {
             typewriterElement.innerHTML = null;
             index = 0;
-            // typewriterElement.innerHTML = text.substring(0, index);
-            // index--;
         }
-
+    
         if (index === text.length + 1) {
             isDeleting = true;
         } else if (index === 0) {
             isDeleting = false;
         }
     }
+
 
     // Start typing when the page loads
     setInterval(typeWriter, intervalTime);

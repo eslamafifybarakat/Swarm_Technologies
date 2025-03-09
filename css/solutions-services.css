@@ -53,6 +53,10 @@
   height: 600px;
 }
 
+.node {
+  width: 100px;
+}
+
 .node text {
   font-size: 13px !important;
   fill: #fff;

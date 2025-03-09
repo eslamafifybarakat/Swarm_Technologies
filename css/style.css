@@ -130,6 +130,15 @@
   background-position: center;
 }
 
+@media (max-width:567px) {
+
+  #partners .nav-pills {
+    border-radius: 0.75rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+  }
+}
+
 @media (max-width:400px) {
   #hero-section {
     padding-top: 70px !important;
@@ -140,11 +149,6 @@
     border: none !important;
   }
 
-  #partners .nav-pills {
-    border-radius: 0.75rem !important;
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
-  }
 }
 
 @media (max-width:555px) {
@@ -377,7 +381,11 @@
   }
 
   #subscribe {
-    padding: 1.5rem 0;
+    padding: 1.5rem 0 0;
+  }
+
+  #subscribe .subscribe-content {
+    border-radius: 0 !important;
   }
 }
 

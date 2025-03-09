@@ -180,11 +180,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'solar', title: 'Solar energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'solar', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -200,11 +200,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'wind', title: 'Wind energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'wind', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -224,11 +224,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'solar', title: 'Solar energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'solar', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -244,11 +244,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'wind', title: 'Wind energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'wind', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -268,11 +268,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'solar', title: 'Solar energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'solar', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -288,11 +288,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'wind', title: 'Wind energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'wind', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -312,11 +312,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'solar', title: 'Solar energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'solar', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -332,11 +332,11 @@ panels and components to generate electricity from the sun.
             {
                 id: 'wind', title: 'Wind energy stocks', content: {
                     id: 1, imgUrl: './images/useCases/cases/rio.webp', imgAlt: 'wind', title: 'Renewable energy stocks', htmlContent: `<div>
-                    <p class="lh-lg w-75 text-dark mb-0">
+                    <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce
                     electricity
                 </p>
-                <p class="lh-lg w-75 text-dark mb-0">
+                <p class="lh-lg w-75 text-dark mb-0 m-auto m-md-0">
                     These companies manufacture components to produce electricity
 
 using renewable resources such as solar, wind,
@@ -525,7 +525,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "طاقة شمسية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                    <p class=\"lh-lg w-75 text-dark mb-0\">\n                    هذه الشركات تصنع مكونات لإنتاج\n                    الكهرباء\n                </p>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                    باستخدام مصادر متجددة مثل الطاقة الشمسية، الرياح،\n                    <br>\n                    الطاقة الكهرومائية،\n                    و<br> الطاقة الجيوحرارية\n                </p>\n                <p class=\"lh-lg w-75 text-dark mt-2\">\n                    تركز هذه الفئة من الطاقة المتجددة على تصنيع\n                    الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n                </p>\n                    </div>"
+                    "htmlContent": "<div>\n                    <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                    هذه الشركات تصنع مكونات لإنتاج\n                    الكهرباء\n                </p>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                    باستخدام مصادر متجددة مثل الطاقة الشمسية، الرياح،\n                    <br>\n                    الطاقة الكهرومائية،\n                    و<br> الطاقة الجيوحرارية\n                </p>\n                <p class=\"lh-lg w-75 text-dark mt-2\">\n                    تركز هذه الفئة من الطاقة المتجددة على تصنيع\n                    الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n                </p>\n                    </div>"
                 }
             },
             {
@@ -536,7 +536,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "طاقة الرياح",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                    <p class=\"lh-lg w-75 text-dark mb-0\">\n                    هذه الشركات تصنع مكونات لإنتاج\n                    الكهرباء\n                </p>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                    باستخدام مصادر متجددة مثل الطاقة الشمسية، الرياح،\n                    <br>\n                    الطاقة الكهرومائية،\n                    و<br> الطاقة الجيوحرارية\n                </p>\n                <p class=\"lh-lg w-75 text-dark mt-2\">\n                    تركز هذه الفئة من الطاقة المتجددة على تصنيع\n                    الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n                </p>\n                    </div>"
+                    "htmlContent": "<div>\n                    <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                    هذه الشركات تصنع مكونات لإنتاج\n                    الكهرباء\n                </p>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                    باستخدام مصادر متجددة مثل الطاقة الشمسية، الرياح،\n                    <br>\n                    الطاقة الكهرومائية،\n                    و<br> الطاقة الجيوحرارية\n                </p>\n                <p class=\"lh-lg w-75 text-dark mt-2\">\n                    تركز هذه الفئة من الطاقة المتجددة على تصنيع\n                    الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n                </p>\n                    </div>"
                 }
             }
         ]
@@ -555,7 +555,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "شمسية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             },
             {
@@ -566,7 +566,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "رياحية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             }
         ]
@@ -585,7 +585,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "شمسية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             },
             {
@@ -596,7 +596,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "رياحية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             }
         ]
@@ -615,7 +615,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "شمسية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             },
             {
@@ -626,7 +626,7 @@ var useCasesAr = [
                     "imgUrl": "./images/useCases/cases/rio.webp",
                     "imgAlt": "رياحية",
                     "title": "أسهم الطاقة المتجددة",
-                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
+                    "htmlContent": "<div>\n                <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                تصنع هذه الشركات مكونات لإنتاج الكهرباء\n            </p>\n            <p class=\"lh-lg w-75 text-dark mb-0 m-auto m-md-0\">\n                باستخدام موارد متجددة مثل الطاقة الشمسية والرياحية،\n                <br>\n                الهيدروكربونية،\n                و<br> الجيوثيرمية\n            </p>\n            <p class=\"lh-lg w-75 text-dark mt-2\">\n                تركز هذه الفرعية من الطاقة المتجددة على تصنيع\n                <br>\n                الألواح الشمسية والمكونات لتوليد الكهرباء من الشمس.\n            </p>\n                </div>"
                 }
             }
         ]
