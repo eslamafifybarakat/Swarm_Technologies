@@ -33,6 +33,11 @@
   background-color: #613c95;
 }
 
+#clients .slick-track {
+  display: flex;
+  align-items: center;
+}
+
 #clients::after {
   content: "";
   width: 100%;

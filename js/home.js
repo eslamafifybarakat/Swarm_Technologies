@@ -1,18 +1,21 @@
 // clients
 const clients = [
-    { imageUrl: './images/home/clients/3.png', altText: 'client3' },
-    { imageUrl: './images/home/clients/4.png', altText: 'client4' },
-    { imageUrl: './images/home/clients/7.png', altText: 'client7' },
-    { imageUrl: './images/home/clients/8.png', altText: 'client8' },
-    { imageUrl: './images/home/clients/10.png', altText: 'client10' },
-    { imageUrl: './images/home/clients/12.png', altText: 'client12' },
-    { imageUrl: './images/home/clients/13.png', altText: 'client13' },
-    { imageUrl: './images/home/clients/15.png', altText: 'client15' },
-    { imageUrl: './images/home/clients/17.png', altText: 'client17' },
-    { imageUrl: './images/home/clients/18.png', altText: 'client18' },
-    { imageUrl: './images/home/clients/19.png', altText: 'client19' },
-    { imageUrl: './images/home/clients/20.png', altText: 'client1' },
-    { imageUrl: './images/home/clients/21.png', altText: 'client21' },
+    { imageUrl: './images/clients/01.svg', altText: 'client3' },
+    { imageUrl: './images/clients/02.svg', altText: 'client4' },
+    { imageUrl: './images/clients/03.png', altText: 'client7' },
+    { imageUrl: './images/clients/4.svg', altText: 'client8' },
+    { imageUrl: './images/clients/05.svg', altText: 'client10' },
+    { imageUrl: './images/clients/06.png', altText: 'client12' },
+    { imageUrl: './images/clients/07.png', altText: 'client13' },
+    { imageUrl: './images/clients/08.svg', altText: 'client15' },
+    { imageUrl: './images/clients/09.svg', altText: 'client17' },
+    { imageUrl: './images/clients/010.svg', altText: 'client18' },
+    { imageUrl: './images/clients/11.svg', altText: 'client19' },
+    { imageUrl: './images/clients/012.svg', altText: 'client1' },
+    { imageUrl: './images/clients/13.svg', altText: 'client21' },
+    { imageUrl: './images/clients/014.png', altText: 'client22' },
+    { imageUrl: './images/clients/15.webp', altText: 'client22' },
+    { imageUrl: './images/clients/16.webp', altText: 'client22' },
 ]
 
 function createClients() {
@@ -79,7 +82,7 @@ clientsImgs.forEach(image => {
     const originalSrc = image.src;
     image.addEventListener('mouseover', function () {
         // Change the extension to webp on hover
-        image.src = originalSrc?.replace(/\.png$/, '.webp');
+        // image.src = originalSrc?.replace(/\.svg$/, '.webp');
     });
 
     image.addEventListener('mouseout', function () {
