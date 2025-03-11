@@ -4,7 +4,7 @@ const clients = [
     { imageUrl: './images/clients/02.svg', altText: 'client4' },
     { imageUrl: './images/clients/03.png', altText: 'client7' },
     { imageUrl: './images/clients/4.svg', altText: 'client8' },
-    { imageUrl: './images/clients/05.svg', altText: 'client10' },
+    { imageUrl: './images/clients/5.svg', altText: 'client10' },
     { imageUrl: './images/clients/06.png', altText: 'client12' },
     { imageUrl: './images/clients/07.png', altText: 'client13' },
     { imageUrl: './images/clients/08.svg', altText: 'client15' },
