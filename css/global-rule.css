@@ -1,8 +1,8 @@
 /*fonts
 ====================*/
-@import url("https://fonts.googleapis.com/css2?family=Anta&family=El+Messiri:wght@400..700&family=IBM+Plex+Sans:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
-
-@font-face {
+/* @import url("https://fonts.googleapis.com/css2?family=Anta&family=El+Messiri:wght@400..700&family=IBM+Plex+Sans:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"); */
+@import url(font-family.css);
+/* @font-face {
   font-family: Alternox;
   src: url(../vendor/fonts/Alternox-Regular.otf);
 }
@@ -10,7 +10,7 @@
 @font-face {
   font-family: Alternox-light;
   src: url(../vendor/fonts/Alternox-Light.otf);
-}
+} */
 
 meta[property="og:image"] {
   width: 100% !important;
@@ -25,7 +25,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   color: #252829;
-  /* font-family: Alternox; */
+  font-family: 'NeoSans';
 }
 
 * {
@@ -34,9 +34,9 @@ body {
   box-sizing: border-box;
 }
 
-p {
+/* p {
   font-family: Alternox-light;
-}
+} */
 
 *:focus-visible {
   outline: none;
@@ -156,9 +156,9 @@ a.text-white-color:hover {
   color: var(--text-white-color);
 }
 
-.btn-solid-main {
+/* .btn-solid-main {
   font-family: Alternox-light;
-}
+} */
 
 .btn-solid-main,
 .btn-solid-main:active,
