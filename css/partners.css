@@ -1,0 +1,16 @@
+ #partners #hero-section .fs-lg {
+   font-size: 3.2rem;
+   margin-bottom: 3rem;
+ }
+
+ @media (min-width: 1200px) {
+   #partners .fs-lg {
+     background-position: left bottom;
+   }
+
+ }
+
+ #partners #hero-section::before {
+   background-image: url(../images/partenrs/bg.png);
+   transform: scaleX(-1);
+ }
